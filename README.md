@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @itafu123
+- 👀 I’m interested in PHP, Javascript
+- 🌱 I’m currently learning new languages
+- 📫 Can reach me by itafu123@gmail.com
